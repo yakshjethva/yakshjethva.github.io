@@ -1,2 +1,2 @@
-# interpreted.github.io
+# yakshjethva.github.io
 Personal site
